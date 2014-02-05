@@ -1,5 +1,4 @@
 Lore
 ====
 
-The Lore of Avslor
-Hello world
+The Lore of Avslor more information will come soon.
